@@ -1,6 +1,6 @@
 # liri-node-app
 
-##Setup Instructions
+## Setup Instructions
 Clone or download the repo
 At the top level, type 'npm i' into a terminal window to load packages - check the package-lock.json file for specific dependencies.
 Create a file called '.env'
@@ -11,7 +11,7 @@ Create a .gitignore file and add .env to this file (to keep API keys secure, the
         .DS_Store
         .env
 
-##Instructions For Use
+## Instructions For Use
 In a terminal window, type one of the following commands:
     node liri do-what-it-says
         *This will execute the command in the raof choicendom.txt file*
