@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danashelton"
+    "url": "git+https://github.com/danashelton/Liri"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danashelton"
+    "url": "https://github.com/danashelton/Liri"
   },
-  "homepage": "https://github.com/danashelton",
+  "homepage": "https://github.com/danashelton/Liri",
   "dependencies": {
     "dotenv": "^6.1.0",
     "moment": "^2.22.2",
